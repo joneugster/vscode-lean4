@@ -1,4 +1,4 @@
-import { LeanFileProgressProcessingInfo, ServerStoppedReason } from '@leanprover/infoview-api'
+import { LeanFileProgressProcessingInfo, ServerStoppedReason } from '@joneugster/infoview-api'
 import { Disposable, EventEmitter, OutputChannel, TextDocument, TextEditor, commands, window, workspace } from 'vscode'
 import {
     checkAll,

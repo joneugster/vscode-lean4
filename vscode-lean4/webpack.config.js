@@ -48,7 +48,7 @@ const getWebviewConfig = env => ({
             patterns: [
                 {
                     // See https://github.com/webpack-contrib/copy-webpack-plugin/tree/e2274daad21baae3020819aa29ab903bd9992cce#yarn-workspaces-and-monorepos
-                    from: `${path.dirname(require.resolve('@leanprover/infoview/package.json'))}/dist`,
+                    from: `${path.dirname(require.resolve('@joneugster/infoview/package.json'))}/dist`,
                     to: path.resolve(__dirname, 'dist', 'lean4-infoview'),
                 },
             ],

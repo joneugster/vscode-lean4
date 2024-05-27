@@ -3,7 +3,7 @@ Copyright (c) 2022 E.W.Ayers. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
 Authors: E.W.Ayers, Wojciech Nawrocki
 */
-import { FVarId, MVarId, SubexprPos } from '@leanprover/infoview-api'
+import { FVarId, MVarId, SubexprPos } from '@joneugster/infoview-api'
 import * as React from 'react'
 import { DetectHoverSpan, HoverState } from './tooltips'
 

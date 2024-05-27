@@ -8,9 +8,9 @@ import {
     PublishDiagnosticsParams,
 } from 'vscode-languageserver-protocol'
 
-import { LeanDiagnostic, RpcErrorCode } from '@leanprover/infoview-api'
+import { LeanDiagnostic, RpcErrorCode } from '@joneugster/infoview-api'
 
-import { getInteractiveDiagnostics, InteractiveDiagnostic } from '@leanprover/infoview-api'
+import { getInteractiveDiagnostics, InteractiveDiagnostic } from '@joneugster/infoview-api'
 import { Details } from './collapsing'
 import { ConfigContext, EditorContext, LspDiagnosticsContext } from './contexts'
 import { RpcContext, useRpcSessionAtPos } from './rpcSessions'

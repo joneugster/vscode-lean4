@@ -14,7 +14,7 @@ import {
     InfoviewApi,
     LeanFileProgressParams,
     LeanFileProgressProcessingInfo,
-} from '@leanprover/infoview-api'
+} from '@joneugster/infoview-api'
 
 import { ConfigContext, EditorContext, ProgressContext, VersionContext } from './contexts'
 import { EditorConnection, EditorEvents } from './editorConnection'

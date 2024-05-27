@@ -30,7 +30,7 @@ import {
 } from 'vscode-languageclient/node'
 import * as ls from 'vscode-languageserver-protocol'
 
-import { LeanFileProgressParams, LeanFileProgressProcessingInfo, ServerStoppedReason } from '@leanprover/infoview-api'
+import { LeanFileProgressParams, LeanFileProgressProcessingInfo, ServerStoppedReason } from '@joneugster/infoview-api'
 import {
     automaticallyBuildDependencies,
     getElaborationDelay,

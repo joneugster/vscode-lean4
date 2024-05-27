@@ -3,7 +3,7 @@
 import * as React from 'react'
 import type { DocumentUri, Position, Range, TextDocumentPositionParams } from 'vscode-languageserver-protocol'
 
-import { isRpcError, RpcErrorCode } from '@leanprover/infoview-api'
+import { isRpcError, RpcErrorCode } from '@joneugster/infoview-api'
 
 import { EditorContext } from './contexts'
 import { EventEmitter } from './event'

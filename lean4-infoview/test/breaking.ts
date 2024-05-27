@@ -1,7 +1,7 @@
 /**
  * Tests for breaking changes in the local state of the infoview API
  * (meaning anything exported from `src/index.tsx`)
- * relative to the latest published NPM release of `@leanprover/infoview`.
+ * relative to the latest published NPM release of `@joneugster/infoview`.
  * It does so by turning both packages into records in the TypeScript type system
  * and checking that one extends the other.
  *

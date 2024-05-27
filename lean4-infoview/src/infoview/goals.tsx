@@ -6,7 +6,7 @@ import {
     InteractiveHypothesisBundle_nonAnonymousNames,
     MVarId,
     TaggedText_stripTags,
-} from '@leanprover/infoview-api'
+} from '@joneugster/infoview-api'
 import * as React from 'react'
 import { Details } from './collapsing'
 import { ConfigContext, EditorContext } from './contexts'

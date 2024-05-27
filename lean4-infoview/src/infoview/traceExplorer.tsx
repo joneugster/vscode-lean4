@@ -13,7 +13,7 @@ import {
     MessageData,
     MsgEmbed,
     TraceEmbed,
-} from '@leanprover/infoview-api'
+} from '@joneugster/infoview-api'
 import * as React from 'react'
 import { Goal } from './goals'
 import {
