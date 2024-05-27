@@ -6,7 +6,7 @@ import {
     RpcSessionAtPos,
     UserWidgetInstance,
     Widget_getWidgetSource,
-} from '@leanprover/infoview-api'
+} from '@joneugster/infoview-api'
 import { ErrorBoundary } from './errors'
 import { GoalsLocation } from './goalLocation'
 import { RpcContext } from './rpcSessions'

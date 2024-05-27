@@ -14,7 +14,7 @@ import {
     RpcSessionAtPos,
     UserWidgetInstance,
     Widget_getWidgets,
-} from '@leanprover/infoview-api'
+} from '@joneugster/infoview-api'
 import { ConfigContext, EditorContext, LspDiagnosticsContext, ProgressContext } from './contexts'
 import { GoalsLocation, Locations, LocationsContext } from './goalLocation'
 import { FilteredGoals, goalsToString } from './goals'

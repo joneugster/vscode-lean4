@@ -8,7 +8,7 @@ import {
     RpcKeepAliveParams,
     ServerStoppedReason,
     TextInsertKind,
-} from '@leanprover/infoview-api'
+} from '@joneugster/infoview-api'
 import { join } from 'path'
 import {
     commands,

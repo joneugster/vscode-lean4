@@ -902,8 +902,8 @@
         "test": "node ./out/test/suite/runTest.js"
     },
     "dependencies": {
-        "@leanprover/infoview": "~0.7.0",
-        "@leanprover/infoview-api": "~0.4.0",
+        "@joneugster/infoview": "~0.7.0",
+        "@joneugster/infoview-api": "~0.4.0",
         "axios": "^1.6.7",
         "cheerio": "^1.0.0-rc.12",
         "markdown-it": "^14.1.0",

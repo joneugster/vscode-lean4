@@ -8,7 +8,7 @@ import {
     SubexprInfo,
     TaggedText,
     TaggedText_stripTags,
-} from '@leanprover/infoview-api'
+} from '@joneugster/infoview-api'
 import { marked } from 'marked'
 import { Location } from 'vscode-languageserver-protocol'
 import { EditorContext } from './contexts'

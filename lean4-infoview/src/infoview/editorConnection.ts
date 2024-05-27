@@ -7,7 +7,7 @@ import {
     InfoviewApi,
     PlainGoal,
     PlainTermGoal,
-} from '@leanprover/infoview-api'
+} from '@joneugster/infoview-api'
 
 import { EventEmitter, Eventify } from './event'
 import { DocumentPosition } from './util'
