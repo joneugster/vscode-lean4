@@ -902,7 +902,7 @@
         "test": "node ./out/test/suite/runTest.js"
     },
     "dependencies": {
-        "@joneugster/infoview": "~0.7.0",
+        "@joneugster/infoview": "~0.7.10",
         "@joneugster/infoview-api": "~0.4.0",
         "axios": "^1.6.7",
         "cheerio": "^1.0.0-rc.12",
